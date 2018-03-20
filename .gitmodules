@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/RadZaeem/radzaeem.github.io.git
+	branch = origin/master
