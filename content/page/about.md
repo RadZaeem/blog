@@ -9,6 +9,7 @@ I am Computer Science Master's student, studying Deep Learning for Speech Recogn
 
 I graduated from Universiti Teknologi Malaysia with Bachelor of Engineering (Electrical - Mechatronics) in 2016.
 
-contact me at:
-[https://twitter.com/radzaeem](https://twitter.com/radzaeemm "Twitter RadZaeem")
-[https://github.com/RadZaeem/](https://twitter.com/radzaeemm "Github RadZaeem")
+Contact me at:
+
+[https://twitter.com/radzaeem](https://twitter.com/radzaeem "Twitter RadZaeem")
+[https://github.com/RadZaeem/](https://twitter.com/radzaeem "Github RadZaeem")
