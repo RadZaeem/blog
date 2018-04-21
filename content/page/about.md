@@ -4,8 +4,7 @@ date: 2018-03-20T22:42:22+08:00
 draft: false
 ---
 
-My name is Raden Muhammad Mu'az
-I am Computer Science Master's student, studying Deep Learning for Speech Recognition at Shinoda Lab, Tokyo Institute of Technology. 
+I am Computer Science Master's student, at Tokyo Institute of Technology. 
 
 I graduated from Universiti Teknologi Malaysia with Bachelor of Engineering (Electrical - Mechatronics) in 2016.
 
